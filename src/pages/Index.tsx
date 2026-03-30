@@ -46,7 +46,7 @@ const Index = () => {
                   </Badge>
                   <h1 className="text-6xl lg:text-8xl font-bold tracking-tight text-balance">
                     Защита металла
-                    <span className="text-primary block">от огня и коррозии</span>
+                    <span className="text-red-600 block">от огня и коррозии</span>
                   </h1>
                   <p className="text-xl text-muted-foreground max-w-2xl text-pretty">
                     Профессиональная огнезащитная обработка металлоконструкций для промышленных и гражданских объектов.
